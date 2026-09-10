@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="nl">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Open Dag</title>
+    <title>Open Dag | Ontdek jouw toekomst</title>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <!-- CSS -->
     <link rel="stylesheet" href="style.css">
@@ -18,71 +19,375 @@
 
 <body>
 
-    <!-- Bovenkant -->
+    <!-- =========================
+         HEADER
+    ========================== -->
+
     <header class="header">
-        <div class="logo">
-            <img src="images/curio-logo.png" alt="Logo">
+
+        <div class="header-inner">
+
+            <div class="logo">
+                LOGO
+            </div>
+
+            <nav class="navigation">
+                <a href="#over">Over de opleiding</a>
+                <a href="#vakken">Vakken</a>
+                <a href="#toekomst">Toekomst</a>
+                <a href="#contact">Contact</a>
+            </nav>
+
+            <a href="#contact" class="header-button">
+                Open dag
+            </a>
+
         </div>
+
     </header>
 
 
-    <!-- Hoofdinhoud -->
-    <main class="container">
+    <!-- =========================
+         HERO
+    ========================== -->
 
-        <!-- Grote afbeelding -->
+    <main>
+
         <section class="hero">
-            <!-- Afbeelding kan hier later worden toegevoegd -->
-        </section>
 
+            <img
+                src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1800&q=85"
+                alt="Schoolgebouw"
+            >
 
-        <!-- Eerste gedeelte -->
-        <section class="content-section">
+            <div class="hero-overlay"></div>
 
-            <div class="text-content">
-                <h1></h1>
+            <div class="hero-content">
 
-                <p>
-                </p>
-            </div>
+                <span class="hero-label">
+                    OPEN DAG
+                </span>
 
-            <div class="image-placeholder">
-                <!-- Afbeelding kan hier later worden toegevoegd -->
-            </div>
-
-        </section>
-
-
-        <!-- Tweede gedeelte -->
-        <section class="content-section">
-
-            <div class="text-content">
-                <h1></h1>
+                <h1>
+                    Ontdek jouw<br>
+                    <span>toekomst</span>
+                </h1>
 
                 <p>
+                    Maak kennis met onze opleiding, ontdek wat bij jou past
+                    en ervaar zelf hoe het is om bij ons op school te leren.
                 </p>
-            </div>
 
-            <div class="image-placeholder">
-                <!-- Afbeelding kan hier later worden toegevoegd -->
+                <div class="hero-buttons">
+
+                    <a href="#over" class="button button-primary">
+                        Ontdek de opleiding
+                    </a>
+
+                    <a href="#contact" class="button button-secondary">
+                        Plan je bezoek
+                    </a>
+
+                </div>
+
             </div>
 
         </section>
 
 
-        <!-- Onderste titel / tekst -->
-        <section class="bottom-text">
-            <h1></h1>
+        <!-- =========================
+             INTRO
+        ========================== -->
+
+        <section class="intro" id="over">
+
+            <div class="intro-text">
+
+                <span class="section-label">
+                    WELKOM
+                </span>
+
+                <h2>
+                    Een opleiding die<br>
+                    bij jou past.
+                </h2>
+
+                <p>
+                    Ben jij benieuwd naar jouw mogelijkheden? Tijdens onze
+                    open dag krijg je een goed beeld van de opleiding,
+                    de school en het dagelijks leven van onze studenten.
+                </p>
+
+                <p>
+                    Bekijk de lokalen, maak kennis met docenten en studenten
+                    en ontdek welke richting het beste bij jou past.
+                </p>
+
+                <a href="#vakken" class="text-link">
+                    Bekijk de opleiding →
+                </a>
+
+            </div>
+
+            <div class="intro-image">
+
+                <img
+                    src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=85"
+                    alt="Studenten op school"
+                >
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             VAKKEN
+        ========================== -->
+
+        <section class="subjects" id="vakken">
+
+            <div class="section-heading">
+
+                <span class="section-label">
+                    ONTDEK MEER
+                </span>
+
+                <h2>
+                    Wat leer je bij ons?
+                </h2>
+
+                <p>
+                    Tijdens je opleiding ontwikkel je kennis én vaardigheden
+                    die je later goed kunt gebruiken.
+                </p>
+
+            </div>
+
+
+            <div class="subject-grid">
+
+                <article class="subject-card">
+
+                    <div class="card-number">
+                        01
+                    </div>
+
+                    <h3>
+                        Theorie
+                    </h3>
+
+                    <p>
+                        Je krijgt een sterke basis en leert de belangrijkste
+                        kennis die je nodig hebt binnen jouw vakgebied.
+                    </p>
+
+                </article>
+
+
+                <article class="subject-card">
+
+                    <div class="card-number">
+                        02
+                    </div>
+
+                    <h3>
+                        Praktijk
+                    </h3>
+
+                    <p>
+                        Je gaat vooral veel doen. Door opdrachten en projecten
+                        leer je hoe je jouw kennis in de praktijk toepast.
+                    </p>
+
+                </article>
+
+
+                <article class="subject-card">
+
+                    <div class="card-number">
+                        03
+                    </div>
+
+                    <h3>
+                        Samenwerken
+                    </h3>
+
+                    <p>
+                        Je werkt samen met andere studenten en leert
+                        communiceren, plannen en verantwoordelijkheid nemen.
+                    </p>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             SFEER FOTO
+        ========================== -->
+
+        <section class="experience">
+
+            <div class="experience-image">
+
+                <img
+                    src="https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1600&q=85"
+                    alt="Studenten in een klaslokaal"
+                >
+
+            </div>
+
+            <div class="experience-content">
+
+                <span class="section-label">
+                    ERVAAR HET ZELF
+                </span>
+
+                <h2>
+                    Meer dan alleen<br>
+                    een opleiding.
+                </h2>
+
+                <p>
+                    Bij ons krijg je de ruimte om jezelf te ontwikkelen.
+                    Je leert niet alleen uit boeken, maar ook door samen
+                    te werken, projecten uit te voeren en nieuwe dingen
+                    te ontdekken.
+                </p>
+
+                <div class="stats">
+
+                    <div>
+                        <strong>100%</strong>
+                        <span>persoonlijke ontwikkeling</span>
+                    </div>
+
+                    <div>
+                        <strong>+</strong>
+                        <span>praktijkervaring</span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             TOEKOMST
+        ========================== -->
+
+        <section class="future" id="toekomst">
+
+            <div class="future-content">
+
+                <span class="section-label">
+                    JOUW TOEKOMST
+                </span>
+
+                <h2>
+                    Waar wil jij<br>
+                    naartoe?
+                </h2>
+
+                <p>
+                    Na deze opleiding kun je verschillende kanten op.
+                    Je kunt direct aan de slag of verder leren binnen
+                    een vervolgopleiding.
+                </p>
+
+                <a href="#contact" class="button button-primary">
+                    Ontdek jouw mogelijkheden
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             OPEN DAG CTA
+        ========================== -->
+
+        <section class="open-day" id="contact">
+
+            <div>
+
+                <span class="section-label">
+                    OPEN DAG
+                </span>
+
+                <h2>
+                    Kom langs en<br>
+                    ontdek het zelf.
+                </h2>
+
+                <p>
+                    Benieuwd geworden? Kom naar onze open dag en
+                    maak kennis met de school, docenten en studenten.
+                </p>
+
+            </div>
+
+
+            <div class="event-info">
+
+                <div class="event-item">
+
+                    <span>DATUM</span>
+                    <strong>XX MAART 2027</strong>
+
+                </div>
+
+                <div class="event-item">
+
+                    <span>TIJD</span>
+                    <strong>10:00 – 15:00</strong>
+
+                </div>
+
+                <div class="event-item">
+
+                    <span>LOCATIE</span>
+                    <strong>Onze school</strong>
+
+                </div>
+
+                <a href="#" class="button button-light">
+                    Aanmelden
+                </a>
+
+            </div>
+
         </section>
 
     </main>
 
 
-    <!-- Onderkant -->
+    <!-- =========================
+         FOOTER
+    ========================== -->
+
     <footer class="footer">
-        <div class="logo">
-            <img src="images/curio-logo.png" alt="Logo">
+
+        <div class="footer-inner">
+
+            <div class="logo">
+                LOGO
+            </div>
+
+            <p>
+                © 2027 Onze School · Open Dag
+            </p>
+
         </div>
+
     </footer>
+
 
 </body>
 </html>
