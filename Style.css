@@ -35,6 +35,12 @@ body {
     font-size: 5px;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    font-size: 5px
+}
+
 
 /* ========================================
    Container
@@ -144,6 +150,12 @@ body {
     align-items: center;
 
     padding-left: 50px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    font-size: 5px
 }
 
 
