@@ -39,7 +39,7 @@
         <section class="content-section">
 
             <div class="text-content">
-                <h1>hoi</h1>
+                <h1></h1>
 
                 <p>
                 </p>

@@ -33,12 +33,7 @@ body {
 .logo {
     font-family: "Roboto", sans-serif;
     font-size: 5px;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-    font-size: 5px
+    size: 5px;
 }
 
 
