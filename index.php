@@ -21,7 +21,7 @@
     <!-- Bovenkant -->
     <header class="header">
         <div class="logo">
-            Logo
+            <img src="images/curio-logo.png" alt="Logo">
         </div>
     </header>
 
@@ -39,7 +39,7 @@
         <section class="content-section">
 
             <div class="text-content">
-                <h1></h1>
+                <h1>hoi</h1>
 
                 <p>
                 </p>
@@ -80,7 +80,7 @@
     <!-- Onderkant -->
     <footer class="footer">
         <div class="logo">
-            Logo
+            <img src="images/curio-logo.png" alt="Logo">
         </div>
     </footer>
 
