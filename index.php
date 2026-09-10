@@ -28,14 +28,13 @@
         <div class="header-inner">
 
             <div class="logo">
-                LOGO
+                <img src="images/curio-logo.png" alt="Curio Logo">
             </div>
 
             <nav class="navigation">
                 <a href="#over">Over de opleiding</a>
                 <a href="#vakken">Vakken</a>
                 <a href="#toekomst">Toekomst</a>
-                <a href="#contact">Contact</a>
             </nav>
 
             <a href="#contact" class="header-button">
@@ -56,7 +55,7 @@
         <section class="hero">
 
             <img
-                src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&w=1800&q=85"
+                src="images/curio-gebouw.jpg"
                 alt="Schoolgebouw"
             >
 
@@ -82,10 +81,6 @@
 
                     <a href="#over" class="button button-primary">
                         Ontdek de opleiding
-                    </a>
-
-                    <a href="#contact" class="button button-secondary">
-                        Plan je bezoek
                     </a>
 
                 </div>
@@ -308,63 +303,6 @@
 
         </section>
 
-
-        <!-- =========================
-             OPEN DAG CTA
-        ========================== -->
-
-        <section class="open-day" id="contact">
-
-            <div>
-
-                <span class="section-label">
-                    OPEN DAG
-                </span>
-
-                <h2>
-                    Kom langs en<br>
-                    ontdek het zelf.
-                </h2>
-
-                <p>
-                    Benieuwd geworden? Kom naar onze open dag en
-                    maak kennis met de school, docenten en studenten.
-                </p>
-
-            </div>
-
-
-            <div class="event-info">
-
-                <div class="event-item">
-
-                    <span>DATUM</span>
-                    <strong>XX MAART 2027</strong>
-
-                </div>
-
-                <div class="event-item">
-
-                    <span>TIJD</span>
-                    <strong>10:00 – 15:00</strong>
-
-                </div>
-
-                <div class="event-item">
-
-                    <span>LOCATIE</span>
-                    <strong>Onze school</strong>
-
-                </div>
-
-                <a href="#" class="button button-light">
-                    Aanmelden
-                </a>
-
-            </div>
-
-        </section>
-
     </main>
 
 
@@ -377,11 +315,11 @@
         <div class="footer-inner">
 
             <div class="logo">
-                LOGO
+                <img src="images/curio-logo.png" alt="Curio Logo">
             </div>
 
             <p>
-                © 2027 Onze School · Open Dag
+                © 2026 Curio · Open Dag
             </p>
 
         </div>
