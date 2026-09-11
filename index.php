@@ -28,7 +28,7 @@
         <div class="header-inner">
 
             <div class="logo">
-                <img src="images/curio-logo.png" alt="Curio Logo">
+                <img src="images/curio-logo.jpg" alt="Curio Logo">
             </div>
 
             <nav class="navigation">
@@ -315,7 +315,7 @@
         <div class="footer-inner">
 
             <div class="logo">
-                <img src="images/curio-logo.png" alt="Curio Logo">
+                <img src="images/curio-logo.jpg" alt="Curio Logo">
             </div>
 
             <p>
