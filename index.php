@@ -295,10 +295,6 @@
                     een vervolgopleiding.
                 </p>
 
-                <a href="#contact" class="button button-primary">
-                    Ontdek jouw mogelijkheden
-                </a>
-
             </div>
 
         </section>
