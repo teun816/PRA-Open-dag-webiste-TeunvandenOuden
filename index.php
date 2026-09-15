@@ -108,7 +108,7 @@
                 </h2>
 
                 <p>
-                    Ben jij benieuwd naar jouw mogelijkheden? Tijdens onze
+                    Ben jij benieuwd naar wat deze opleiding inhoud? Tijdens onze
                     open dag krijg je een goed beeld van de opleiding,
                     de school en het dagelijks leven van onze studenten.
                 </p>
@@ -248,7 +248,7 @@
 
                 <p>
                     Bij ons krijg je de ruimte om jezelf te ontwikkelen.
-                    Je leert niet alleen uit boeken, maar ook door samen
+                    Je leert niet alles op de laptop, maar ook door samen
                     te werken, projecten uit te voeren en nieuwe dingen
                     te ontdekken.
                 </p>
@@ -292,7 +292,7 @@
                 <p>
                     Na deze opleiding kun je verschillende kanten op.
                     Je kunt direct aan de slag of verder leren binnen
-                    een vervolgopleiding.
+                    een vervolgopleiding, zoals HBO Software Developer, Software Engineer of Game Developer.
                 </p>
 
             </div>
