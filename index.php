@@ -37,7 +37,7 @@
                 <a href="#toekomst">Toekomst</a>
             </nav>
 
-            <a href="#contact" class="header-button">
+            <a href="https://youtu.be/dQw4w9WgXcQ?si=FFMkTpaljUceaDB7" class="header-button">
                 Open dag
             </a>
 
