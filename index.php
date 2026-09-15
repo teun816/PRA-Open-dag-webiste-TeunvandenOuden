@@ -115,7 +115,7 @@
 
                 <p>
                     Bekijk de lokalen, maak kennis met docenten en studenten
-                    en ontdek welke richting het beste bij jou past.
+                    en ontdek of deze richting het beste bij jou past.
                 </p>
 
                 <a href="#vakken" class="text-link">
@@ -153,7 +153,7 @@
                 </h2>
 
                 <p>
-                    Tijdens je opleiding ontwikkel je kennis én vaardigheden
+                    Tijdens deze opleiding ontwikkel je kennis én vaardigheden
                     die je later goed kunt gebruiken.
                 </p>
 
@@ -173,8 +173,8 @@
                     </h3>
 
                     <p>
-                        Je krijgt een sterke basis en leert de belangrijkste
-                        kennis die je nodig hebt binnen jouw vakgebied.
+                        Net zoals op de middelbare school krijg je standaard vakken zoals Nederlands, Engels 
+                        en Rekenen.
                     </p>
 
                 </article>
