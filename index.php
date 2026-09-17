@@ -67,7 +67,7 @@
         </nav>
 
 
-        <a href="#over" class="header-button">
+        <a href="https://www.curio.nl/mbo/ict/ict/software-developer" class="header-button">
             Ontdek de opleiding
         </a>
 
