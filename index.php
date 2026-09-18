@@ -115,7 +115,7 @@
             <div class="hero-buttons">
 
                 <a
-                    href="#over"
+                    href="https://www.curio.nl/mbo/ict/ict/software-developer"
                     class="button button-primary"
                 >
                     Ontdek de opleiding
